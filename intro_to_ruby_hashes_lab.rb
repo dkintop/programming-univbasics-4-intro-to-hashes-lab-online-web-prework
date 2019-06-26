@@ -60,7 +60,7 @@ if hash[key]
   hash
 else
   hash[key] = 1
-  return hash
+  hash
 end
 
 
