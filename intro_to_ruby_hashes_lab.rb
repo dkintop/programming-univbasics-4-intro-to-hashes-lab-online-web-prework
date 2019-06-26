@@ -59,7 +59,7 @@ if hash[key]
   hash[key] +=1
 else
   hash[key] = 1
-  return key
+  return hash
 end
 
 
